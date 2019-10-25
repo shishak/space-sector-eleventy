@@ -299,7 +299,7 @@ article ul li a:hover {
 .share-page {
    margin-top: 10px;
 }
-.share-page a:hover svg {
+.share-page a:hover svg g, .share-page a:hover svg rect {
    fill: #ffffff;
 }
 

@@ -305,7 +305,7 @@ article ul li a:hover {
 
 .right-header {
    float: right;
-   height: 0;
+   margin: 13px;
 }
 
 .share-page {

@@ -297,6 +297,11 @@ article ul li a:hover {
 .share-page {
    margin-top: 10px;
 }
+
+.share-page svg g {
+   fill: none;
+   transition: fill 0.3s;
+}
 .share-page svg g:hover {
    fill: #fff;
    transition: fill 0.3s;

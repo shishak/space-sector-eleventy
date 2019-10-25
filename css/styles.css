@@ -305,6 +305,11 @@ article ul li a:hover {
    height: 0;
 }
 
+.right-header {
+   float: right;
+   height: 0;
+}
+
 .share-page {
    margin-top: 15px;
 }

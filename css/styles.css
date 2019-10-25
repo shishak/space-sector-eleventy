@@ -295,6 +295,10 @@ article ul li a:hover {
    padding: 10px;
     display: inline-block;
 }
+.share svg:hover {
+   fill: #000;
+}
+
 .share-header {
    float: left;
    height: 0;

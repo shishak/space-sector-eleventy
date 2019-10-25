@@ -293,7 +293,7 @@ article ul li a:hover {
     display: inline;
 	margin: 7px;
 }
-.share svg:hover {
+.share a:hover svg {
    fill: #9B9B9B;
    transition: fill 0.3s;
 }

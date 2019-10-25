@@ -297,7 +297,10 @@ article ul li a:hover {
 
 
 .share-page {
-   margin-top: 20px;
+   margin-top: 10px;
+}
+.share-page a:hover svg {
+   fill: #ffffff;
 }
 
 .facebook {

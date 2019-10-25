@@ -293,7 +293,7 @@ article ul li a:hover {
 
 .share {
    margin: 10px;
-    display: inline-block;
+    display: inline;
 }
 .share:hover svg path {
    fill: #4A4A4A;

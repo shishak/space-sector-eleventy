@@ -300,6 +300,11 @@ article ul li a:hover {
    transition: fill 0.3s;
 }
 
+.share svg {
+   width: 25px;
+   height: 25px;
+}
+
 .share-header {
    float: left;
    height: 0;

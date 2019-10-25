@@ -143,7 +143,11 @@ h2 {
 .grid-item {
     margin-bottom: 0.5rem;
 }
+h1, .date-title {
+   margin: 20px;
 }
+}
+	
 .grid p, .grid table{display:none}
 .grid p:nth-child(1) {
 	display:block;
@@ -151,15 +155,6 @@ h2 {
 }
 
 
-
-.logo {
-   position: absolute;
-   left: 0;
-   right: 0;
-   margin: 0 auto;
-max-height: 20px;
-margin-top: 15px;
-}
 
 .logo svg {
 	margin: 16px;

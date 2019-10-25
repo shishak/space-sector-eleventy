@@ -148,10 +148,6 @@ h2 {
 .grid-item {
     margin-bottom: 0.5rem;
 }
-h1, .date-title {
-   margin: 20px;
-}
-	
 .share-header, .right-header {
    display: none;
 }		

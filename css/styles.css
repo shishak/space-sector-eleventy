@@ -295,7 +295,7 @@ article ul li a:hover {
    padding: 10px;
     display: inline-block;
 }
-.share svg:hover {
+.share:hover svg g path {
    fill: #000;
 }
 

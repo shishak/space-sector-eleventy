@@ -1,7 +1,7 @@
 var axios  = require('axios');
 var toJSON = require('xml2js').parseString;
 
-var url = process.env.MEDIUM_FEED ||'http://www.pipes.digital/feed/59VMBnqA';
+var url = process.env.MEDIUM_FEED ||'http://www.pipes.digital/feed/59VMBnqA?';
 
 module.exports = () => {
   return new Promise((resolve, reject) => {

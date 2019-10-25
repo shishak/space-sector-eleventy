@@ -104,7 +104,6 @@ header {
 }
 
 .sidebar {
-   width: 300px;
   float: right;
   
 }
@@ -295,7 +294,7 @@ article ul li a:hover {
 
 
 .share-page {
-   margin-top: 20px;
+   margin-top: 15px;
 }
 
 .share-page a svg g:hover {

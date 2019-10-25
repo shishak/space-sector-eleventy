@@ -292,6 +292,11 @@ article ul li a:hover {
   text-decoration: underline;
 }
 
+.share {
+   float: left;
+   margin-left: 10px;
+}
+
 
 .share-page {
    margin-top: 15px;

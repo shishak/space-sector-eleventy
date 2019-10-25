@@ -291,7 +291,6 @@ article ul li a:hover {
 }
 
 .share {
-   margin: 10px;
     display: inline;
 }
 .share:hover svg path {
@@ -299,9 +298,8 @@ article ul li a:hover {
    transition: fill 0.3s;
 }
 
-.share svg {
-   width: 25px;
-   height: 25px;
+.share a {
+   margin: 10px;
 }
 
 .share-header {

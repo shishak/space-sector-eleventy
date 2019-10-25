@@ -121,7 +121,12 @@ h1 {
   font-size: 48px;
     font-weight: 500;
     line-height: 48px;
-   margin: 20px;
+   margin-left: 20px;
+	margin-right: 20px;
+}
+
+.data-title {
+   margin-left: 20px;
 }
 
 h2 {

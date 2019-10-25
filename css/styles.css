@@ -292,10 +292,10 @@ article ul li a:hover {
 }
 
 .share {
-   padding: 10px;
+   margin: 10px;
     display: inline-block;
 }
-.share:hover svg g{
+.share:hover svg path {
    fill: #4A4A4A;
    transition: fill 0.3s;
 }

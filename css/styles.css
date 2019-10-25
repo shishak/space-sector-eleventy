@@ -303,10 +303,6 @@ article ul li a:hover {
    transition: fill 0.3s;
 }
 
-.facebook {
-   margin-bottom: 40px;
-}
-
 
 @media all and (max-width: 1119px) {
 .content {

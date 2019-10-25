@@ -146,6 +146,10 @@ h2 {
 h1, .date-title {
    margin: 20px;
 }
+	
+.share-header, .right-header {
+   display: none;
+}		
 }
 	
 .grid p, .grid table{display:none}

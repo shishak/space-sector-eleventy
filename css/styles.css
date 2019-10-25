@@ -299,7 +299,7 @@ article ul li a:hover {
 .share-page {
    margin-top: 10px;
    transition: fill 0.3s;
-   fill: inherit;
+   fill: #fafafa;
 }
 .share-page svg g:hover {
    fill: #fff;
@@ -307,7 +307,9 @@ article ul li a:hover {
 }
 
 .facebook {
-   margin-bottom: 50px;	
+   margin-bottom: 50px;
+   transition: fill 0.3s;
+   fill: #D9E5F3;
 }
 
 
